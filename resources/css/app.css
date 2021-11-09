@@ -1,0 +1,28 @@
+.body{
+    background-color: #000000;
+
+}
+
+.cod-global-header{
+    color: #969696;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+    background-image: url(../../../../../../../content/dam/atvi/callofduty/global/global-nav/global-nav-bg.png);
+    background-size: 2px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 18px #646464;
+    -webkit-box-pack: justify;
+    display: flex;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 50px;
+    position: relative;
+    z-index: 5;
+}
